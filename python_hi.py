@@ -2,5 +2,6 @@
 
 import random
 print("Hello World")
+print("Hello from master!")
 if random.random() > 0.5:
     print("Again: Hello world!!")
